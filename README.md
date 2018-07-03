@@ -2,7 +2,7 @@
 
 Simon Says is a simple command-line pattern memory game.
 
-Still, it's a fun game to play in Ruby when you need some amusement on the command line.
+Still, it's a fun game to play in Ruby when you need some fun whilst using the command line.
 
 ## How to play
 >Firstly, 
