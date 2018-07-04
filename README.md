@@ -12,6 +12,6 @@ Still, it's a fun game to play in Ruby when you need some fun whilst using the c
 >cd your way in to the folder which contains the download files
 >
 >Lastly, 
->type ruby play.rb with in the command line to start playing 
+>type ruby play-simon-says-MVP.rb  with in the command line to start playing 
 >
 >Good Luck Enjoy Playing :D
