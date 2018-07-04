@@ -1,55 +1,55 @@
 puts "Welcome To Simon Says"
 
-puts "Simon Says Type 0"
+puts "Simon Says Type '0'"
 answer = gets.chomp
 if answer == "0"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Simon Says Type Hello"
+puts "Simon Says Type 'Hello'"
 answer = gets.chomp
 if answer == "Hello"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Simon Says Type 3"
+puts "Simon Says Type '3'"
 answer = gets.chomp
 if answer == "3"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Simon Says Type Sparta"
+puts "Simon Says Type 'Sparta'"
 answer = gets.chomp
 if answer == "Sparta"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Simon Says Type 6"
+puts "Simon Says Type '6'"
 answer = gets.chomp
 if answer == "6"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Simon Says Type DevOps"
+puts "Simon Says Type 'DevOps'"
 answer = gets.chomp
 if answer == "DevOps"
- puts "Congrats"
+ puts "EXCELLENT! Now, do as Simon Says!"
 else
-  puts "Simon Didn't Say That"
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
 
-puts "Type 5"
+puts "Type '5'"
 answer = gets.chomp
 if answer == "5"
- puts "Tough Luck, You Didn't Do What Simon Said"
+ puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
