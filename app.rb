@@ -44,7 +44,7 @@ class Simon
         if c != pattern[index]
           round_success = false
           puts
-          puts 'INCORRECT! You didn\'t do as Simon Says!'
+          puts 'WRONG, Hahah! You didn\'t do as Simon Says!'
           puts '---'
           print "You lasted #{success_count} round(s)! "
 
