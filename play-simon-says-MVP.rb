@@ -50,8 +50,10 @@ end
 
 puts "Type '5'"
 answer = gets.chomp
-if answer == "5"
- puts "WRONG!! Hahaha! You didn't do as Simon Says!"
+if answer == ""
+ puts "Congrats, "
+ puts "You Did What Simon Said"
+ puts "You've Won"
 else
   puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
