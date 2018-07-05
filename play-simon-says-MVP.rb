@@ -52,4 +52,6 @@ puts "Type '5'"
 answer = gets.chomp
 if answer == "5"
  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
+else
+  puts "WRONG!! Hahaha! You didn't do as Simon Says!"
 end
