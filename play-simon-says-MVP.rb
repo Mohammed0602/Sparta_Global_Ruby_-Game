@@ -51,7 +51,7 @@ end
 puts "Type '5'"
 answer = gets.chomp
 if answer == ""
- puts "Congrats, "
+ puts "Congrats !! "
  puts "You Did What Simon Said"
  puts "You've Won"
 else
